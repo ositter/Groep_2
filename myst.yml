@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Hussein Al Hussein
-    - name: Olivier Sitter
+    - name: Freek Pols 
+    - name: Roel Smit
 
   date: 2025-11-05
   github: https://github.com/ositter/Groep_2.git # Change this URL to your GitHub repository
@@ -25,3 +25,4 @@ site:
   actions:
     - title: report issue
       url: https://github.com/ositter/Groep_2.git # change this URL to your repository
+      
