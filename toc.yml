@@ -47,6 +47,10 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
+      file: Content/Labs/koelbuis.md
+      file: Content/Labs/Warmtecapaciteit.md
+      file: Content/Labs/Verdamping.md
+      file: Content/Labs/cwater.md
       # children:
         
       # - title: Soortelijke warmte
